@@ -3,4 +3,5 @@ This is a repo that houses my assignments for Fall '21 Machine Learning (Dr. Jih
 HW1: Linear Classification using Perceptron Learning Algorithm 
 HW2: Bias/Variance analysis of simple linear function attepting to fit sin(x) 
 HW3: Linear Regression Analysis compared to PLA and Pocket version of PLA. 
-HW4: Regression techniques with Regularization. 
+HW4: Regression techniques with Regularization.
+HW5: K-nearest neighbor and RBF classification on handwritten numbers 0-9.
