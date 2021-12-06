@@ -5,3 +5,4 @@ HW2: Bias/Variance analysis of simple linear function attepting to fit sin(x) <b
 HW3: Linear Regression Analysis compared to PLA and Pocket version of PLA. <br/>
 HW4: Regression techniques with Regularization.<br/>
 HW5: K-nearest neighbor and RBF classification on handwritten numbers 0-9.<br/>
+HW6: Forward propogation of a neural network (NO BACK PROPOGATION FOR WEIGHT IMPROVEMENT) <br/>
